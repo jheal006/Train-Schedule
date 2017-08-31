@@ -1,0 +1,50 @@
+/*/////////////////
+ Basics
+//////////////////*/
+body {
+
+}
+
+h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+p {
+  line-height: 1.5em;
+  font-size: 1.1em;
+}
+
+
+/*/////////////////
+ Header
+//////////////////*/
+
+.intro {
+  background-image: url('../images/thomasFire.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: auto;
+  width: auto;
+}
+
+/*/////////////////
+ Body
+//////////////////*/
+
+.alert {
+  padding: 10px;
+  margin: 0;
+}
