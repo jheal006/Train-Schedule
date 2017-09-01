@@ -2,7 +2,7 @@
  Basics
 //////////////////*/
 body {
-
+  background-image: url('../images/wreck.jpg')
 }
 
 h1 {
@@ -30,6 +30,11 @@ p {
  Header
 //////////////////*/
 
+#siteHeader {
+  color: #0000ff;
+  border: solid 4px #0000ff;
+}
+
 .intro {
   background-image: url('../images/thomasFire.jpg');
   -webkit-background-size: cover;
@@ -43,6 +48,10 @@ p {
 /*/////////////////
  Body
 //////////////////*/
+
+.panel {
+  border: solid 4px #0000ff;
+}
 
 .alert {
   padding: 10px;
